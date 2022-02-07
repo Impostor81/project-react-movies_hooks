@@ -2,9 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 
 export default function Search (props) {
 
-  const {
-    searchMovie = Function.prototype,
-  } = props;
+  const {searchMovie} = props;
 
   const [search, setSearch] = useState('matrix');
   const [type, setType] = useState('all');
