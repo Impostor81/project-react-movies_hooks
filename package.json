@@ -1,8 +1,8 @@
 {
-  "name": "unit_35_project-movies",
+  "name": "project-movies_hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Impostor81.github.io/project-react-movies",
+  "homepage": "https://Impostor81.github.io/project-react-movies_hooks",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",

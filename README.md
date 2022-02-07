@@ -1,2 +1,2 @@
 # Portfolio Project React-Movies
-Used React, API, css-framework Materializecss
+Used React (Hooks), API, css-framework Materializecss
